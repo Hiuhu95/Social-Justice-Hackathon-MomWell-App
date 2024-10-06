@@ -1,0 +1,38 @@
+body {
+    font-family: 'Times New Roman', serif;
+    background-color: #FFB6C1; /* Light Pink */
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.9); /* White with slight transparency */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    text-align: center;
+    color: #C71585; /* Medium Violet Red */
+}
+
+p, ul {
+    font-size: 1.1em;
+    line-height: 1.6;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+a {
+    color: #C71585; /* Medium Violet Red */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
